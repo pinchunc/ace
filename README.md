@@ -11,7 +11,7 @@
 ##### .mat file of Kubios output of ECG R-R intervals
 
 # Output
-Output will be named as .mat
-This version of code gives your output per quartile (approximately each overnight sleep cycle).
-EEG frequency bands calculated: swa=[0.1 4]; alpha=[8 13]; theta=[4 7]; sigma=[12 16];
-EEG events: spindles
+##### Output will be named as .mat
+##### This version of code gives your output per quartile (approximately each overnight sleep cycle).
+##### EEG frequency bands calculated: swa=[0.1 4]; alpha=[8 13]; theta=[4 7]; sigma=[12 16];
+##### EEG events: spindles

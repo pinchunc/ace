@@ -9,6 +9,7 @@
 ##### sleep edf file
 ##### single column text file for sleep stages (one for every 30 sec)
 ##### .mat file of Kubios output of ECG R-R intervals
+##### See examples here: https://drive.google.com/drive/folders/1T_4-pfQCbJFvKJeCJCL-5Y3IEGxbnes4?usp=sharing
 
 # Output
 ##### Output will be named as .mat

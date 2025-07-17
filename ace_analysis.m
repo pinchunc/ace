@@ -1,8 +1,5 @@
 function ace=ace_analysis()
 % include spindles SOs and Hilbert raw data by quartile
-% Please cite Naji et al: Neurobiol Learn Mem 157:139-150.
-% doi: 10.1016/j.nlm.2018.12.008.
-% https://www.ncbi.nlm.nih.gov/pubmed/30562589
 % requires 3 files: sleep edf file, single column text file for sleep
 % stages (one for every 30 sec), and mat file of K_u_b_i_o_s output of
 % ECG R peaks 
